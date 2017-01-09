@@ -1,0 +1,14 @@
+Softwares required:
+===================
+
+1) XAMPP with php 7.0
+2) Composer https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
+
+Next Step : Creating a virtual host:
+====================================
+
+Pending
+
+NextStep :
+==========
+
